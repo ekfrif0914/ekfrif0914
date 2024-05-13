@@ -1,4 +1,4 @@
-### Hi there 👋
+### 전민정의 이력서 👋
 
 <!--
 **ekfrif0914/ekfrif0914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-이것은 전민정의 이력서입니다.
+<img src="https://capsule-render.vercel.app/api?type=wave&color=red&height=50px&section=header&text=텍스트&fontSize=40px" />
+
