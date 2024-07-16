@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 노력하고 고민하는 개발자입니다. </div> 
     </div>
     <h1>🚧 Project List 🚧</h1>
-여행 SNS : https://github.com/ekfrif0914/project_SNSMaster
+여행 SNS : https://github.com/ekfrif0914/project_SNSMaster/tree/master
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
