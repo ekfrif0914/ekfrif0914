@@ -20,10 +20,15 @@ Here are some ideas to get you started:
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About Me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 노력하고 고민하는 개발자입니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 노력하고 고민하는 개발자 전민정입니다.
+    </div> 
+        나이: 22세<br>
+        지역: 서울, 대한민국<br>
+        이메일: ekfrif0914@naver.com<br>
     </div>
     <h1>🚧 Project List 🚧</h1>
-여행 SNS : https://github.com/ekfrif0914/project_SNSMaster/tree/master
+여행 SNS : https://github.com/ekfrif0914/project_SNSMaster/tree/master <br>
+Java, Spring Boot, html,CSS,javaScript 그리고 Thymeleaf로 구축한 sns 플랫폼.
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
