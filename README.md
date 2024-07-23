@@ -27,8 +27,17 @@ Here are some ideas to get you started:
         이메일: ekfrif0914@naver.com<br>
     </div>
     <h1>🚧 Project List 🚧</h1>
-여행 SNS : https://github.com/ekfrif0914/project_SNSMaster/tree/master <br>
-Java, Spring Boot, html,CSS,javaScript 그리고 Thymeleaf로 구축한 sns 플랫폼.
+<h3>여행 SNS :</h3> https://github.com/ekfrif0914/project_SNSMaster/tree/master <br>
+Java, Spring Boot, html,CSS,javaScript 그리고 Thymeleaf로 구축한 sns 플랫폼. <br>
+<h3>여행맛집 리뷰 사이트: </h3>
+https://github.com/ekfrif0914/TripMatZip <br>
+Spring, Oracle로 구축한 여행지 맛집 추천 리뷰 사이트. <br>
+<h3>반려견종합정보 시스템: </h3>
+https://github.com/ekfrif0914/pet <br>
+javascript, html, css로 구축한 반려견 분양 정보 사이트. <br>
+<h3>택배예약 시스템:  </h3>
+https://github.com/ekfrif0914/JsPostBox <br>
+java언어로 구축한 택배예약 시스템. <br>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
        <h3>데이터베이스</h3>
