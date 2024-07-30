@@ -38,6 +38,9 @@ javascript, html, css로 구축한 반려견 분양 정보 사이트. <br>
 <h3>택배예약 시스템:  </h3>
 https://github.com/ekfrif0914/JsPostBox <br>
 java언어로 구축한 택배예약 시스템. <br>
+<h1>🚧 Study List 🚧</h1>
+https://github.com/ekfrif0914/Study_ <br>
+미니프로젝트 PPT 모음 <br>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
        <h3>데이터베이스</h3>
